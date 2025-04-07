@@ -1,0 +1,7 @@
+Mean Square Error:  2.477233605302036e-26
+Mean Abosolute Error:  1.0894988614988203e-13
+R2_score:  1.0
+X_train:  (189, 3)
+X_test:  (48, 3)
+Y_train:  (189,)
+Y_test:  (48,)
